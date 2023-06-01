@@ -75,4 +75,6 @@ function fetchGitHubInformation(event) {
         });
 }
 
+
+// octocat profile is automaticlly display
 $(document).ready(fetchGitHubInformation);
